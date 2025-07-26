@@ -1,4 +1,4 @@
-# LuminaVerse.nft
+# 🕶️ LuminaVerse
 
 **From Meta Al Lumina × LuminaVerse •e**
 
@@ -66,6 +66,7 @@ These logos are seamlessly integrated into the **right lens** of the techwear vi
 ## 🌐 Connect With Us
 
 - 🔗 Links
+
 	•	🌍 [Website](https://www.meta.com/ai-glasses/)
 
 	•	🥏 [Zora](https://zora.co/invite/luminaverse)
