@@ -66,10 +66,14 @@ These logos are seamlessly integrated into the **right lens** of the techwear vi
 ## 🌐 Connect With Us
 
 - 🔗 Links
-	•	🌍 (Website)[https://www.meta.com/ai-glasses/]
-	•	🥏 (Zora)[https://zora.co/invite/luminaverse]
-	•	🪼 (OpenSea)[https://opensea.io/gallery/0xc15a5316b75ab200e0c24688f85ef9612d70bbd8/220f5ab2432b46a99f20acd904fbf587]
-	•	🐦 (Twitter)[https://twitter.com/luminaverse__]
+	•	🌍 [Website](https://www.meta.com/ai-glasses/)
+
+	•	🥏 [Zora](https://zora.co/invite/luminaverse)
+
+	•	🪼 [OpenSea](https://opensea.io/gallery/0xc15a5316b75ab200e0c24688f85ef9612d70bbd8/220f5ab2432b46a99f20acd904fbf587)
+
+	•	🐦 [Twitter](https://twitter.com/luminaverse__)
+
 	•	📄 Docs: docs.luminaverse.io (Coming Soon)
 ---
 
