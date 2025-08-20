@@ -1,0 +1,20 @@
+{
+  "data": {
+    "organization": {
+      "name": "LuminaVerse0",
+      "pipelines": {
+        "edges": [
+          {
+            "node": {
+              "name": "nft-mini-app",
+              "description": "LuminaVerse is a next-generation NFT ecosystem designed to merge creativity, utility, and community. Built for artists, collectors, and visionaries, LuminaVerse goes beyond simple NFT trading—it’s a gateway into a universe of endless possibilities.",
+              "repository": {
+                "url": "git@github.com:LuminaVerse0/nft-mini-app.git"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
